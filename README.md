@@ -10,7 +10,7 @@ Points are tallied up and announced at the end. 🏆
 
 Hope you have fun! 🥳
 
-(made as the final submission for the Workshop on C programming held by Code catalyst (TIST) from March-April 2025)
+(made as the final submission for the Workshop on C programming held by CodeCatalyst (TIST) from March-April 2025)
 
 ## Author
 
